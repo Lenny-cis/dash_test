@@ -1,7 +1,4 @@
 .spyproject/
-<<<<<<< HEAD
-*/__pycache__/*
-=======
+
 __pycache__/
 **/__pycache__
->>>>>>> 4841c9091c2e1c19491a1c4e3223b0c5483b1c74
